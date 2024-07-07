@@ -1,5 +1,5 @@
-/home/sunil/Desktop/React/OnlineEducationApplication/online-eduation-api/src/main/java/com/online_eduation_api/online_eduation_api/OnlineEduationApiApplication.java
-/home/sunil/Desktop/React/OnlineEducationApplication/online-eduation-api/src/main/java/com/online_eduation_api/online_eduation_api/Service/ItemService.java
-/home/sunil/Desktop/React/OnlineEducationApplication/online-eduation-api/src/main/java/com/online_eduation_api/online_eduation_api/controller/ItemController.java
-/home/sunil/Desktop/React/OnlineEducationApplication/online-eduation-api/src/main/java/com/online_eduation_api/online_eduation_api/entity/Item.java
-/home/sunil/Desktop/React/OnlineEducationApplication/online-eduation-api/src/main/java/com/online_eduation_api/online_eduation_api/repository/ItemRepository.java
+/home/sunil/Desktop/React/OnlineEducationApplication/online-quiz-api/src/main/java/com/online_quiz_api/online_quiz_api/OnlinequizApiApplication.java
+/home/sunil/Desktop/React/OnlineEducationApplication/online-quiz-api/src/main/java/com/online_quiz_api/online_quiz_api/Service/ItemService.java
+/home/sunil/Desktop/React/OnlineEducationApplication/online-quiz-api/src/main/java/com/online_quiz_api/online_quiz_api/controller/ItemController.java
+/home/sunil/Desktop/React/OnlineEducationApplication/online-quiz-api/src/main/java/com/online_quiz_api/online_quiz_api/entity/Item.java
+/home/sunil/Desktop/React/OnlineEducationApplication/online-quiz-api/src/main/java/com/online_quiz_api/online_quiz_api/repository/ItemRepository.java
