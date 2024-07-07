@@ -1,4 +1,4 @@
-package com.online_eduation_api.online_eduation_api;
+package com.online_quiz_api.online_quiz_api;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {
